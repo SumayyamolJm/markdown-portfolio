@@ -1,1 +1,13 @@
-Replace this with a list of your favorite things.
+1. DRINKS
+  * COFFEE
+  * SHAKES
+  * TEA
+    - MILK TEA
+    - BLACK TEA
+  * JUICE
+  * FALOODA
+2. BOOKS
+  * SHORT STORY
+  * NOVEL
+  * COLOUR BOOKS
+  * PICTURE BOOKS
